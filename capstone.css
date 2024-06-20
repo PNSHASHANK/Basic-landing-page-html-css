@@ -1,0 +1,43 @@
+body{
+    color:white ;
+    background-color:#011627;
+    font-family:Montserrat;
+    text-align: center;
+    border-right: 40px solid #1c99a1 ;
+    border-left: 40px solid #1c99a1 ;
+    border-bottom: 40px solid #1c99a1 ;
+}
+#h1{
+    font-size: 40px;
+}
+#h2{
+    font-size: 30px;
+    padding: 10px;
+}
+#pa1{
+    font-size: 30px;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#pa2{
+    font-size:30px;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#h3{
+    font-size: 30px;
+    padding: 10px;  
+}
+.emailform{
+    text-align: center;
+    padding-bottom: 10px;
+}
+#button{
+    padding: 2%;
+    background: orange;
+    border: 1px yellow ;
+    border-radius: 3px;
+    margin-top: 10px;
+}
